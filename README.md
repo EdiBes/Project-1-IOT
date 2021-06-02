@@ -12,3 +12,4 @@ The links will open in a new Tab
 By clicking the link **Game** you will be redirected to another page where you can play a 2 Player game.
 
 The buttons in the Meet the Team part are not linked. Any wished functionality as contact window or Mail has to be added.
+Pictures for the Cards have to be added to the assets folder.
